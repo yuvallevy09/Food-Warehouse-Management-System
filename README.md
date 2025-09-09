@@ -70,7 +70,7 @@ volunteer Limor driver 8 3
 - `bin/` – build artifacts (executable and copied example config)
 - `makefile` – build script used by the course toolchain
 
-## Why this project
+## Technical Significance
 - Demonstrates designing a small but complete simulation engine with clear domain modeling.
 - Emphasizes readable C++ and safe ownership semantics; passes `valgrind` with 0 leaks.
 
