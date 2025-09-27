@@ -1,4 +1,4 @@
-# Food Warehouse Management System (C++)
+# Food Warehouse Management System 
 
 A step-based simulation that models how a community food warehouse fulfills orders using volunteers. Built as part of the Systems Programming course to demonstrate clean object‑oriented design, resource management, and modern C++ practices.
 
